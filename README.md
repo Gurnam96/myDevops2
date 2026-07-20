@@ -1,1 +1,1 @@
-# myDevops2
+# myDevops2 -- practicals
